@@ -1,0 +1,5 @@
+start: Hey. Whats App ? :Show Me:Good
+Good: Super! :null:null
+Bad: Why ;( :I Have No Items:null
+I Have No Items:I Can Sell You Some:Show Me:null
+Show Me:-Open.Shop.WeaponShop1-:null:null

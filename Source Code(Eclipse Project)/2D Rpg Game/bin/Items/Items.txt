@@ -1,0 +1,16 @@
+15
+0		0							Golden Helmet		Items/		1000		500		0		6		5000	-1		-1		-1		-1		false		 
+1		1							Golden Gloves		Items/		1000		500		0		7		5000	-1		-1		-1		-1		false		 
+2		2							Golden Armor		Items/		1000		500		0		-1		-1		-1		-1		-1		-1		false		 
+3		3		1		false		Knife				Items/		1000		500		0		-1		-1		-1		-1		-1		-1		false		 
+4		5							Golden Pant			Items/		1000		500		0		-1		-1		-1		-1		-1		-1		false		 
+5		7							Golden Boots		Items/		1000		500		0		10		10		-1		-1		-1		-1		false		 
+6		0							Chain Helmet		Items/		1000		500		0		-1		-1		-1		-1		-1		-1		false		 
+7		8							Health Potion		Items/		1000		500		0		5000	100		6000	500		-1		-1		true		 
+8		9							Mana Potion			Items/		1000		500		0		5000	100		6000	500		-1		-1		true		 
+9		3		0		false		Spear				Items/		1000		500		0		-1		-1		-1		-1		-1		-1		false		 
+10		3		2		false		Bow					Items/		1000		500		0		-1		-1		-1		-1		-1		-1		false		 
+11		3		1		true		Long Sword			Items/		1000		500		0		-1		-1		-1		-1		-1		-1		false		 
+12		3		0		true		Dragon Spear		Items/		1000		500		0		0		999999	-1		-1		-1		-1		false		 
+13		3		2		false		Basic Arrow			Items/		10			5		0		-1		-1		-1		-1		-1		-1		true		 
+14		8							Health Potion2		Items/		2000		1000	0		10000	5000	20000	1000	-1		-1		true		ZAaaaaaaa
